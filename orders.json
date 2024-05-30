@@ -1,0 +1,114 @@
+{
+  "orders": [
+    {
+      "id": "ac10",
+      "orderId": 1716465092094,
+      "date": "2024-05-23T11:51:32.094Z",
+      "items": [
+        {
+          "id": "3",
+          "image": "http://127.0.0.1:5500/images/product-3.webp",
+          "price": "4000",
+          "qty": 1,
+          "title": "jordan-4 (J4) yellow"
+        },
+        {
+          "id": "7",
+          "image": "http://127.0.0.1:5500/images/product-7.webp",
+          "price": "600",
+          "qty": 1,
+          "title": "converse"
+        }
+      ],
+      "total": "4600.00",
+      "user": {
+        "userId": "a2e5",
+        "username": "user3"
+      }
+    },
+    {
+      "id": "6914",
+      "orderId": 1716465320890,
+      "date": "2024-05-23T11:55:20.890Z",
+      "items": [
+        {
+          "id": "7",
+          "image": "http://127.0.0.1:5500/images/product-7.webp",
+          "price": "600",
+          "qty": 1,
+          "title": "converse"
+        },
+        {
+          "id": "6",
+          "image": "http://127.0.0.1:5500/images/product-6.webp",
+          "price": "800",
+          "qty": 1,
+          "title": "vans"
+        }
+      ],
+      "total": "1400.00",
+      "user": {
+        "userId": "05ba",
+        "username": "user2"
+      }
+    },
+    {
+      "id": "6c1b",
+      "orderId": 1716898027301,
+      "date": "2024-05-28T12:07:07.301Z",
+      "items": [
+        {
+          "id": "1",
+          "image": "http://127.0.0.1:5500/images/product-1.webp",
+          "price": "2500",
+          "qty": 1,
+          "title": "airforce-1 white"
+        },
+        {
+          "id": "6",
+          "image": "http://127.0.0.1:5500/images/product-6.webp",
+          "price": "800",
+          "qty": 1,
+          "title": "vans"
+        }
+      ],
+      "total": "3300.00",
+      "user": {
+        "userId": "7452",
+        "username": "user1"
+      }
+    }
+  ],
+  "users": [
+    {
+      "username": "user1",
+      "email": "user1@example.com",
+      "password": "password123",
+      "id": "7452"
+    },
+    {
+      "username": "user2",
+      "email": "user2@example.com",
+      "password": "password456",
+      "id": "05ba"
+    },
+    {
+      "id": "a2e5",
+      "username": "user3",
+      "password": "12345",
+      "email": "ngh@gmail.com"
+    },
+    {
+      "id": "3b93",
+      "username": "user4",
+      "password": "pass4",
+      "email": "user4@gmail.com"
+    },
+    {
+      "id": "c87f",
+      "username": "user5",
+      "email": "user5@gmail.com",
+      "password": "pass5"
+    }
+  ]
+}

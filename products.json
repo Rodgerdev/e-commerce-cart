@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "airforce-1 white",
+        "price": 2500,
+        "image": { "fields": { "file": { "url": "./images/product-1.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "airforce-1 black",
+        "price": 2500,
+        "image": { "fields": { "file": { "url": "./images/product-2.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "jordan-4 (J4) yellow",
+        "price": 4000,
+        "image": { "fields": { "file": { "url": "./images/product-3.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "jordan-4 (J4) blue",
+        "price": 4000,
+        "image": { "fields": { "file": { "url": "./images/product-4.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "jordan-1 (J1) high",
+        "price": 3500,
+        "image": { "fields": { "file": { "url": "./images/product-5.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "vans",
+        "price": 800,
+        "image": { "fields": { "file": { "url": "./images/product-6.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "converse",
+        "price": 600,
+        "image": { "fields": { "file": { "url": "./images/product-7.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "loafers",
+        "price": 1500,
+        "image": { "fields": { "file": { "url": "./images/product-8.jpg" } } }
+      }
+    }
+  ]
+}
